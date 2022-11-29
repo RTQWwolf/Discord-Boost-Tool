@@ -1,0 +1,4 @@
+oiu
+requests
+colorama
+ctypes
